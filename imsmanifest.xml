@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5f2nmL3DZdX_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">EN_GDPR_e-learning_module 4_v03.00 - principles</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="EN_GDPR_e-learning_module_4_v03.00_-_principles_ORG">
+    <organization identifier="EN_GDPR_e-learning_module_4_v03.00_-_principles_ORG">
+      <title>EN_GDPR_e-learning_module 4_v03.00 - principles</title>
+      <item identifier="EN_GDPR_e-learning_module_4_v03.00_-_principles_SCO" isvisible="true" identifierref="__5f2nmL3DZdX_course_id_RES">
+        <title>EN_GDPR_e-learning_module 4_v03.00 - principles</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5f2nmL3DZdX_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/Slide5xn4gZlyzmb.swf" />
+      <file href="story_content/6fenFzGwUfn_80_DX188_DY188.swf" />
+      <file href="mobile/6fenFzGwUfn_80_DX188_DY188_CX94_CY75.png" />
+      <file href="story_content/5oKTSX0xjS6_80_DX502_DY502.jpg" />
+      <file href="mobile/5oKTSX0xjS6_80_DX502_DY502_CX94_CY251.jpg" />
+      <file href="story_content/WideDownwardDiagonal_D9D9D9_FFFFFF.jpg" />
+      <file href="story_content/5Zxc5XFIINW_80_P_0_0_2048_1152_DX2488_DY2488.swf" />
+      <file href="mobile/5Zxc5XFIINW_80_P_0_0_2048_1152_DX2488_DY2488_CX1866_CY1050.png" />
+      <file href="story_content/Shape5zz07i42lEo.swf" />
+      <file href="story_content/Shape6OW1cBzMQ2K.swf" />
+      <file href="story_content/Shape666ZldcWuZZ.swf" />
+      <file href="story_content/Shape5jAxQJ5M0AJ.swf" />
+      <file href="story_content/Shape6g3DJCkcYpZ.swf" />
+      <file href="story_content/Shape6Xqa7wwL1tr.swf" />
+      <file href="story_content/Shape5qb8nJnTezs.swf" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.json" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5xn4gZlyzmb.jpg" />
+      <file href="mobile/Shape5zz07i42lEo.png" />
+      <file href="mobile/Shape6OW1cBzMQ2K.png" />
+      <file href="mobile/Shape666ZldcWuZZ.png" />
+      <file href="mobile/Shape5jAxQJ5M0AJ.png" />
+      <file href="mobile/Shape6g3DJCkcYpZ.png" />
+      <file href="mobile/Shape6Xqa7wwL1tr.png" />
+      <file href="mobile/Shape5qb8nJnTezs.png" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/5pvKF1w2FvJ.swf" />
+      <file href="story_content/slides/5W8h6xHYAhj.swf" />
+      <file href="story_content/slides/5vt1MjA2Ms3.swf" />
+      <file href="story_content/slides/69ms1oWnig3.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5pvKF1w2FvJ.js" />
+      <file href="html5/data/js/5vt1MjA2Ms3.js" />
+      <file href="html5/data/js/5W8h6xHYAhj.js" />
+      <file href="html5/data/js/69ms1oWnig3.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
